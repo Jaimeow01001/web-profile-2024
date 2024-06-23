@@ -16,7 +16,7 @@ const Profile = (props: Props) => {
         />
       </div>
       <div className="text-center">
-        <h1 className="text-2xl font-bold">John Farmer</h1>
+        <h1 className="text-2xl font-bold">Jamss</h1>
         <p className="text-base">Software Engineer</p>
       </div>
 
